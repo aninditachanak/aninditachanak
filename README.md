@@ -21,5 +21,17 @@
 <p align="center">
   <img src="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
+## 🎮 Interactive Contribution Graph (Activity Graph)
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aninditachanak&theme=tokyonight" alt="Anindita's Contribution Graph" />
+</p>
+
+<p align="center">
+  <b>Thanks for visiting! Let's connect and build something awesome!</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=120&section=footer" />
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
