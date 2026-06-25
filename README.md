@@ -16,4 +16,10 @@
 ---
 [![](https://komarev.com/ghpvc/?username=aninditachanak&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<h2 align="center"></h2>
+
+<p align="center">
+  <img src="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
