@@ -362,17 +362,6 @@ I'm currently focused on building a strong foundation in **Data Structures & Alg
 
 </p>
 
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aninditachanak&theme=react-dark&hide_border=true" />
-
-</p>
-
----
 
 ## 📌 Featured Projects
 
