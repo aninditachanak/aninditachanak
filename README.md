@@ -14,13 +14,13 @@
 
 <!-- 🔗 Social Links -->
 <div align="center">
-  <a href="mailto:ghoraisabuj4@gmail.com">
+  <a href="mailto:aninditachanak001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sabuj-ghorai/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
- <a href="https://leetcode.com/u/__SabujGhorai__/" target="_blank">
+ <a href="https://leetcode.com/u/__Anindita chanak__/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" />
 </a>
   <a href="https://www.instagram.com/https.avi_1819/">
