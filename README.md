@@ -2,7 +2,7 @@
 
 <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Anindita%20Chanak&text2=%F0%9F%9A%80%20Computer%20Science%20Student&width=900&height=200" width="100%" alt="Header Banner"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=20\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&random=false\&width=750\&lines=💻+CSE+Student;🐍+Learning+Python+%7C+DSA+%7C+Problem+Solving;🌐+Frontend+Developer+%7C+React+%7C+Tailwind+CSS;🔐+Cybersecurity+Enthusiast;⚙️+Git+%7C+GitHub+%7C+Linux;🚀+Building+Projects+Step+by+Step+Everyday)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=20\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&random=false\&width=750\&lines=+CSE+Student;+Learning+Python+%7C+DSA+%7C+Problem+Solving;+Frontend+Developer+%7C+React+%7C+Tailwind+CSS;+Cybersecurity+Enthusiast;+Git+%7C+GitHub+%7C+Linux;+Building+Projects+Step+by+Step+Everyday)](https://git.io/typing-svg)
 
 </div>
 
