@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Education: Second-year B.Tech student pursuing a Bachelor of Technology degree in Computer Science and Engineering at Brainware University.<br><br>💻 Passions: Highly enthusiastic about computer programming, web development, and software engineering.<br><br>🧠 Current Focus: Actively sharpening skills in C programming, HTML, CSS, and software design principles.<br><br>🚀 Interests: Exploring open-source contributions, digital design tools, and building responsive, creative web ecosystem projects.<br><br>🔒 Fun Fact: Big advocate for cyber safety and secure digital practices.
+🎓 Education: Second-year B.Tech student pursuing a Bachelor of Technology degree in Computer Science and Engineering .<br><br>💻 Passions: Highly enthusiastic about computer programming, web development, and software engineering.<br><br>🧠 Current Focus: Actively sharpening skills in C programming, HTML, CSS, React,Python and software design principles.<br><br>🚀 Interests: Exploring open-source contributions, digital design tools, and building responsive, creative web ecosystem projects.<br><br>🔒 Fun Fact: Big advocate for cyber safety and secure digital practices.
 
 
 ## 🌐 Socials:
